@@ -10,3 +10,4 @@
  (redemption.ToLower()); 
 ВАстрока
 новое
+1
