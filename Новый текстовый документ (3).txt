@@ -7,6 +7,4 @@
  String love = "Loyalty Honor Family Love Redemption";
 (love.ToLower());
  String redemption = "Loyalty Honor Family Love Redemption";
- (redemption.ToLower()); 
-ВАстрока
-новое
+ (redemption.ToLower());
