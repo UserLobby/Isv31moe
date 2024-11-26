@@ -9,3 +9,4 @@
  String redemption = "Loyalty Honor Family Love Redemption";
  (redemption.ToLower()); 
 ВАстрока
+новое
