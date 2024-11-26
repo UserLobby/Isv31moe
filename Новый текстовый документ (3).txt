@@ -1,0 +1,10 @@
+ String loyalty = "Loyalty Honor Family Love Redemption";
+ textBox1.(loyalty.ToLower());
+ String honor = "Loyalty Honor Family Love Redemption";
+ textBox1.(honor.ToLower());
+ String family = "Loyalty Honor Family Love Redemption";
+ textBox1.(family.ToLower());
+ String love = "Loyalty Honor Family Love Redemption";
+(love.ToLower());
+ String redemption = "Loyalty Honor Family Love Redemption";
+ (redemption.ToLower());
